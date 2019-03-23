@@ -1,0 +1,15 @@
+"""
+
+#Exercise 1: Print a multiplication table by fetching the number to be multiplied and the number of multiples 
+
+The table print should be decorated in the following format 
+
+2 x 1 = 2
+2 x 2 = 4
+2 x 3 = 6
+
+
+#Exercise 2: Print the count of unique vowels in the string "Python is a powerful programming language"
+
+Things to try / hints :
+    1. Create a list called vowels with all vowels in it e.g vowels=['a','e','i','o','u']
